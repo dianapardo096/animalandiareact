@@ -1,0 +1,16 @@
+.btn-primary{
+    background-color: var(--purple-color);
+    border-color: var(--purple-color);
+}
+.btn-primary:hover{
+    background-color:white;
+    color: var(--purple-color);
+    border-color: var(--purple-color);
+}
+.card-img-top{
+    width: 250px;
+}
+.card{
+    border-color:var(--purple-color);
+
+}
